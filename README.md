@@ -5,8 +5,8 @@ ToDoList is a modern task management application built with SwiftUI that helps y
 
 https://github.com/user-attachments/assets/6ab50491-5c4d-4e24-9869-3d0c9ae2ec45
 
-## Note
-While making this application, I used the github Copilot agent artificial intelligence tool and the Vs Code insider program.
+## AI and Tools :
+While making this application, I used the Vs Code insider program and combined the supported codes of the github Copilot agent with the artificial intelligence tool Claude 3.5 sonnet version.
 
 ## Features
 - **Task Management:**  
