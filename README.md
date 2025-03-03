@@ -57,7 +57,7 @@ While making this application, I used the Vs Code insider program and combined t
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/burak0aydin/ToDoList
 
 2. Open in Xcode:
 - Open the .xcodeproj file in Xcode.
